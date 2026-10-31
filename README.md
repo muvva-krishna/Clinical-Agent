@@ -1,4 +1,4 @@
-# Parsewave — Clinical Evidence Agent
+# Clinical Evidence Agent
 
 An open, modular clinical evidence-agent MVP inspired by Vera-style clinical workflows: evidence-first retrieval, bounded agentic tool use, verification, deterministic calculators, clinical trial matching, drug reference, and typed response cards.
 
